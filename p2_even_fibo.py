@@ -1,7 +1,4 @@
 #!/usr/bin/env python3
-# Enter your code here. Read input from STDIN. Print output to STDOUT
-import math
-sqrt5=math.sqrt(5)
 def getFibos(num):
     summ=0
     curr=prev=2
